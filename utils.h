@@ -11,7 +11,7 @@
 #include "store.h"
 
 Operators getOperatorByChar(const gchar* charOperator){
-    if(g_strcmp0("+",charOperator))
+    if(g_str_equal("+",charOperator))
         return Operators::plusOperator;
 }
 
