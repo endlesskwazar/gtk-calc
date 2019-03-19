@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtk-3.0"/>
+					<Add directory="/usr/include/pango-1.0"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/glib-2.0/include"/>
+					<Add directory="/usr/lib/libffi-3.2.1/include"/>
+					<Add directory="/usr/include/fribidi"/>
+					<Add directory="/usr/include/cairo"/>
+					<Add directory="/usr/include/pixman-1"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/include/libpng16"/>
+					<Add directory="/usr/include/harfbuzz"/>
+					<Add directory="/usr/include/uuid"/>
+					<Add directory="/usr/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/include/libmount"/>
+					<Add directory="/usr/include/blkid"/>
+					<Add directory="/usr/include/gio-unix-2.0"/>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/atk-1.0"/>
+					<Add directory="/usr/include/at-spi2-atk/2.0"/>
+					<Add directory="/usr/include/at-spi-2.0"/>
+					<Add directory="/usr/include/dbus-1.0"/>
+					<Add directory="/usr/lib/dbus-1.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/gtk-3.0"/>
+					<Add directory="/usr/include/pango-1.0"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/glib-2.0/include"/>
+					<Add directory="/usr/lib/libffi-3.2.1/include"/>
+					<Add directory="/usr/include/fribidi"/>
+					<Add directory="/usr/include/cairo"/>
+					<Add directory="/usr/include/pixman-1"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/include/libpng16"/>
+					<Add directory="/usr/include/harfbuzz"/>
+					<Add directory="/usr/include/uuid"/>
+					<Add directory="/usr/include/gdk-pixbuf-2.0"/>
+					<Add directory="/usr/include/libmount"/>
+					<Add directory="/usr/include/blkid"/>
+					<Add directory="/usr/include/gio-unix-2.0"/>
+					<Add directory="/usr/include/libdrm"/>
+					<Add directory="/usr/include/atk-1.0"/>
+					<Add directory="/usr/include/at-spi2-atk/2.0"/>
+					<Add directory="/usr/include/at-spi-2.0"/>
+					<Add directory="/usr/include/dbus-1.0"/>
+					<Add directory="/usr/lib/dbus-1.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../include/c++/8.2.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/endlesskwazar/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/consts.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/evaluetor.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/eventHandlers.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/operators.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/store.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/utils.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/endlesskwazar/CLionProjects/untitled/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
